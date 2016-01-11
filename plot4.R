@@ -1,5 +1,5 @@
 ## This program reads household_power_consumption.txt file to a data frame and 
-## plots the Global Active Power Histogram
+## plots the 4 different graphs in a matrix
 
 # Set working directory to folder where household_power_consumption.txt resides.
 setwd("D:/Coursera/ExploratoryData")
